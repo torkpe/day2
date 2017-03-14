@@ -1,0 +1,14 @@
+{
+  "name": "words",
+  "version": "1.0.0",
+  "description": "to check for repetition in words",
+  "main": "words.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "tope",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
