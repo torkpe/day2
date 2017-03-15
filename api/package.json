@@ -1,0 +1,22 @@
+{
+  "name": "searchwiki",
+  "version": "1.0.0",
+  "description": "A command line application used to search wikipedia based on search value entered",
+  "main": "api.js",
+  "scripts": {
+    "test": "node api.js `search`"
+  },
+  "keywords": [
+    "search",
+    "api",
+    "wiki"
+  ],
+  "author": "Tope",
+  "license": "ISC",
+  "dependencies": {
+    "xhr2": "^0.1.4"
+  },
+  "devDependencies": {
+    "xhr2": "^0.1.4"
+  }
+}
